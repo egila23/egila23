@@ -27,7 +27,7 @@ I work as a DBMS instructor, sharing my knowledge and experience with the next g
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![egila23](https://github-readme-stats.vercel.app/api?username=egila23&show_icons=true&theme=radical)
 
 ### 📫 How to reach me
 
