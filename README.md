@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Egila 👋</h1>
+<h1 align="center">Hi there, I'm Akebert Tesfahunegn 👋</h1>
 
 <p align="center">
   <em>AI Student at Carnegie Mellon University &nbsp;|&nbsp; Builder of Intelligent Systems &nbsp;|&nbsp; Project Manager</em>
@@ -11,7 +11,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=egila23.egila23" alt="profile views" />
 </p>
 
----
+
 
 ## 🧠 About Me
 
@@ -19,7 +19,7 @@ I'm an **Artificial Intelligence student at Carnegie Mellon University (CMU)** �
 
 Whether I'm designing multi-agent architectures, training deep learning models, or turning raw data into actionable insights — I approach every challenge with curiosity, rigor, and a drive to make AI actually useful.
 
----
+
 
 ## 🔬 Research & Technical Interests
 
@@ -71,17 +71,14 @@ Whether I'm designing multi-agent architectures, training deep learning models, 
 - 📈 Applying **data science techniques** to extract meaningful patterns from complex datasets
 - 🗂️ Honing my **project management** skills to lead AI-driven initiatives from concept to deployment
 
----
+
 
 ## 🎓 Education
 
 **Carnegie Mellon University (CMU)**
-> Bachelor's / Graduate Program in Artificial Intelligence
+> Graduate Program in Artificial Intelligence
 > 📍 Pittsburgh, PA, USA
 
-CMU is globally recognized for its pioneering research in AI, robotics, computer science, and machine learning — and being here pushes me to operate at the frontier every day.
-
----
 
 ## 📊 GitHub Stats
 
